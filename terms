@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Terms of Use — Family Trail</title>
+<meta name="description" content="Terms of Use for the Family Trail mobile app by Cooba Dev." />
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+    color: #111;
+    background: #fafafa;
+    margin: 0;
+    padding: 32px 20px 80px;
+  }
+  main { max-width: 720px; margin: 0 auto; background: #fff; padding: 32px clamp(20px, 4vw, 40px); border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+  h1 { font-size: 28px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h2 { font-size: 18px; margin: 32px 0 8px; letter-spacing: -0.01em; }
+  p, li { color: #1f2937; }
+  a { color: #2563eb; text-decoration: underline; text-underline-offset: 2px; }
+  ul { padding-left: 22px; }
+  .meta { color: #6b7280; font-size: 14px; margin-bottom: 24px; }
+  footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e7eb; font-size: 13px; color: #6b7280; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #0b0b0c; color: #e5e7eb; }
+    main { background: #131316; box-shadow: none; }
+    p, li { color: #d1d5db; }
+    .meta, footer { color: #9ca3af; }
+    a { color: #60a5fa; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Terms of Use</h1>
+  <p class="meta">Family Trail · Last updated 13 May 2026</p>
+
+  <p>
+    These terms (&ldquo;Terms&rdquo;) govern your use of the Family Trail
+    mobile app (the &ldquo;app&rdquo;), published by <strong>Cooba Dev</strong>
+    (&ldquo;we&rdquo;, &ldquo;us&rdquo;). By installing or using the app you
+    agree to these Terms. If you don&rsquo;t agree, please don&rsquo;t use the
+    app.
+  </p>
+
+  <h2>1. Licence</h2>
+  <p>
+    We grant you a personal, non-exclusive, non-transferable, revocable licence
+    to install and use the app on devices you own or control, for your own
+    non-commercial use, subject to the App Store / Google Play terms.
+  </p>
+
+  <h2>2. Your content</h2>
+  <p>
+    Anything you enter into the app — children, items, notes, attached photos —
+    is your content. It is stored on your device. We don&rsquo;t claim any
+    ownership over it and we don&rsquo;t see it. You are responsible for
+    backing it up if it matters to you (e.g. via your device&rsquo;s standard
+    iCloud / Google backup).
+  </p>
+
+  <h2>3. Lifetime unlock (in-app purchase)</h2>
+  <p>
+    The app offers a one-time, non-consumable in-app purchase called
+    &ldquo;Family Trail Premium&rdquo; that unlocks additional features. The
+    price shown at purchase time applies. The transaction is processed by
+    Apple or Google and verified by RevenueCat — see our
+    <a href="./privacy.html">Privacy Policy</a> for what data is involved.
+  </p>
+  <p>
+    Because the unlock is non-consumable, it can be restored to any device
+    signed in to the same App Store / Play Store account using the
+    &ldquo;Restore purchases&rdquo; button on the Premium screen.
+  </p>
+
+  <h2>4. Refunds</h2>
+  <p>
+    Refunds for in-app purchases are handled directly by Apple or Google under
+    their respective policies. We don&rsquo;t process payments, so we
+    can&rsquo;t issue refunds ourselves. Useful links:
+  </p>
+  <ul>
+    <li>App Store: <a href="https://reportaproblem.apple.com" rel="noreferrer">reportaproblem.apple.com</a></li>
+    <li>Google Play: <a href="https://support.google.com/googleplay/answer/2479637" rel="noreferrer">Play refund policy</a></li>
+  </ul>
+
+  <h2>5. Acceptable use</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>Reverse engineer, decompile, or attempt to extract the source code of the app, except where law expressly permits.</li>
+    <li>Use the app to store or process anything illegal, or to infringe anyone else&rsquo;s rights.</li>
+    <li>Attempt to bypass the in-app purchase to access paid features without paying.</li>
+  </ul>
+
+  <h2>6. Updates and changes</h2>
+  <p>
+    We may release updates to the app from time to time, and may add, change,
+    or remove features. We may also update these Terms; if we do, we&rsquo;ll
+    revise the &ldquo;Last updated&rdquo; date at the top. Continued use of the
+    app after a change means you accept the updated Terms.
+  </p>
+
+  <h2>7. Disclaimer</h2>
+  <p>
+    The app is provided &ldquo;as is&rdquo; and &ldquo;as available&rdquo;
+    without warranties of any kind, express or implied, including but not
+    limited to merchantability, fitness for a particular purpose, and
+    non-infringement. The app is a personal organiser, not professional
+    advice — don&rsquo;t rely on it as the sole record of legally or
+    financially important deadlines.
+  </p>
+
+  <h2>8. Limitation of liability</h2>
+  <p>
+    To the maximum extent permitted by law, Cooba Dev will not be liable for
+    any indirect, incidental, special, consequential, or punitive damages, or
+    for any loss of data, profits, or goodwill arising from your use of (or
+    inability to use) the app. Our total aggregate liability for any claim
+    relating to the app will not exceed the amount you paid us for the
+    lifetime unlock, or, if you didn&rsquo;t buy the unlock, ten US dollars
+    (US$10).
+  </p>
+  <p>
+    Nothing in these Terms excludes or limits liability that cannot be excluded
+    or limited under applicable consumer law.
+  </p>
+
+  <h2>9. Termination</h2>
+  <p>
+    You can stop using the app at any time by uninstalling it. We may suspend
+    or terminate your access if you breach these Terms. Termination
+    doesn&rsquo;t entitle you to a refund of the lifetime unlock — refunds
+    are governed by Apple / Google as described above.
+  </p>
+
+  <h2>10. Governing law</h2>
+  <p>
+    These Terms are governed by the laws of the United Kingdom, without regard
+    to conflict-of-laws principles. Any dispute will be brought in the courts
+    of the United Kingdom, except where mandatory consumer-protection law in
+    your country of residence requires otherwise.
+  </p>
+
+  <h2>11. Contact</h2>
+  <p>
+    Questions about these Terms? Email
+    <a href="mailto:cooba-dev@outlook.com">cooba-dev@outlook.com</a>.
+  </p>
+
+  <footer>
+    &copy; Cooba Dev. Family Trail is a trademark of Cooba Dev.
+  </footer>
+</main>
+</body>
+</html>
